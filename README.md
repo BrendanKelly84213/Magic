@@ -2,6 +2,8 @@
 
 # Magic: The Gathering in Haskell
 
+Brendans fork, just adding this in for testing purposes  
+
 A Haskell implementation of the rules of Wizards of the Coast's Magic: The
 Gathering.
 
